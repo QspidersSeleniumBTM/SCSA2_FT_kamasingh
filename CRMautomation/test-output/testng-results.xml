@@ -11,12 +11,12 @@
       <![CDATA[Home Page is verified, PASSED]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25238" started-at="2019-11-25T11:51:30 IST" finished-at="2019-11-25T11:51:55 IST">
+  <suite name="Default suite" duration-ms="34455" started-at="2019-11-25T22:13:31 IST" finished-at="2019-11-25T22:14:06 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25238" started-at="2019-11-25T11:51:30 IST" finished-at="2019-11-25T11:51:55 IST">
+    <test name="Default test" duration-ms="34455" started-at="2019-11-25T22:13:31 IST" finished-at="2019-11-25T22:14:06 IST">
       <class name="com.crm.campaign.VerifyNewCampaign">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.crm.campaign.VerifyNewCampaign@5b87ed94]" name="openBrowser" is-config="true" duration-ms="12355" started-at="2019-11-25T11:51:30 IST" finished-at="2019-11-25T11:51:42 IST">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.crm.campaign.VerifyNewCampaign@5b87ed94]" name="openBrowser" is-config="true" duration-ms="13251" started-at="2019-11-25T22:13:31 IST" finished-at="2019-11-25T22:13:44 IST">
           <reporter-output>
             <line>
               <![CDATA[Zoho CRM - Sign in]]>
@@ -26,14 +26,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="loginToApp()[pri:0, instance:com.crm.campaign.VerifyNewCampaign@5b87ed94]" name="loginToApp" is-config="true" duration-ms="1584" started-at="2019-11-25T11:51:42 IST" finished-at="2019-11-25T11:51:44 IST">
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:com.crm.campaign.VerifyNewCampaign@5b87ed94]" name="loginToApp" is-config="true" duration-ms="1615" started-at="2019-11-25T22:13:44 IST" finished-at="2019-11-25T22:13:46 IST">
           <reporter-output>
             <line>
               <![CDATA[Home Page is verified, PASSED]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginToApp -->
-        <test-method status="PASS" signature="VerifyCampaignNAme()[pri:0, instance:com.crm.campaign.VerifyNewCampaign@5b87ed94]" name="VerifyCampaignNAme" duration-ms="11265" started-at="2019-11-25T11:51:44 IST" finished-at="2019-11-25T11:51:55 IST">
+        <test-method status="PASS" signature="VerifyCampaignNAme()[pri:0, instance:com.crm.campaign.VerifyNewCampaign@5b87ed94]" name="VerifyCampaignNAme" duration-ms="19526" started-at="2019-11-25T22:13:46 IST" finished-at="2019-11-25T22:14:06 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyCampaignNAme -->

@@ -56,7 +56,7 @@ public class VerifyNewCampaign extends BaseTest {
 		zc.clickLogOut();
 	}
 
-	@Test
+	@Test(enabled = true)
 	public void VerifyCampaignNAme() throws Throwable {
 		cc=new CreateCampaign(driver);
 		cc.clickCampaignTab();
